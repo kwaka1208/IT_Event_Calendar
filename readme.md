@@ -1,15 +1,15 @@
-# 2016年IT業界イベントカレンダー（Googleカレンダーインポート用）
+# 2016年IT業界イベントカレンダー（Googleカレンダー用）
 
-こちらの記事で紹介されていた2016年IT業界イベント情報をGoogleカレンダーにインポートできるようデータ化したものです。  
+こちらの記事で紹介されていた2016年IT業界イベント情報にイベント情報を加えて、Googleカレンダーに取り込めるようデータ化したものです。  
 
 http://ascii.jp/elem/000/001/098/1098134/
 
-csvファイルをダウンロードしてご自身のカレンダーにインポートしてもかまいませんし、以下のURLをGoogleカレンダーに設定しても利用可能です。
+csvファイルをダウンロードしてご自身のカレンダーにインポートしてもかまいませんし、以下のURLをGoogleカレンダーに設定しても利用できます。
 
 - iCal  
 https://calendar.google.com/calendar/ical/a3t7skbr2ucva5emdfhc3ap8eg%40group.calendar.google.com/public/basic.ics
 
-- HTML
+- HTML  
 https://calendar.google.com/calendar/embed?src=a3t7skbr2ucva5emdfhc3ap8eg%40group.calendar.google.com&ctz=Asia/Tokyo
 
 ## 現時点で未定のイベント
