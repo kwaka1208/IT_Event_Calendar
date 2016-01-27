@@ -16,7 +16,7 @@ https://calendar.google.com/calendar/embed?src=a3t7skbr2ucva5emdfhc3ap8eg%40grou
 - de:code 2016
 - Google I/O 2016
 - WWDC2016
-- Maker Faire Tokyo
+- Maker Faire Tokyo 2016 -> 8/6,7だそです。会場を含め明らかになれば追加します。
 - RISING EXPO
 - IDF16
 - TECH IN ASIA TOKYO 2016
