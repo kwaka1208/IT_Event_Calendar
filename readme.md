@@ -13,7 +13,6 @@ https://calendar.google.com/calendar/ical/a3t7skbr2ucva5emdfhc3ap8eg%40group.cal
 https://calendar.google.com/calendar/embed?src=a3t7skbr2ucva5emdfhc3ap8eg%40group.calendar.google.com&ctz=Asia/Tokyo
 
 ## 現時点で未定のイベント
-- de:code 2016
 - Google I/O 2016
 - WWDC2016
 - Maker Faire Tokyo 2016 -> 8/6,7だそです。会場を含め明らかになれば追加します。
